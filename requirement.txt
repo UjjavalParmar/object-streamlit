@@ -1,0 +1,6 @@
+streamlit
+streamlit_webrtc
+cv2
+collections
+numpy
+imutils
